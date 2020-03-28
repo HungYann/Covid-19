@@ -1,0 +1,10 @@
+name: covid-19_maps
+title:
+username:
+account: hongyang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2011277
+bundleId: 2935674
+url: https://hongyang.shinyapps.io/covid-19_maps/
+when: 1585388152.75287
