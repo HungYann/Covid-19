@@ -1,8 +1,9 @@
 
 
-### 中文描述Covid-19(description)
+### 中文描述Covid-19(description) 
 
 **新型冠状病毒疫情地图Shiny实现**(**Interactive map of Covid-19 infected people worldwide**)
+
 
 
 查询地址(Access website)： https://hongyang.shinyapps.io/covid-19_maps/
@@ -19,15 +20,13 @@
 ![](https://tva1.sinaimg.cn/large/00831rSTgy1gd9vvg07j4j30iq0v60xi.jpg)
 
 > 3.查看数据集和排序,点击表头可以查看升序或降序排序(Data sets table)
-![](https://tva1.sinaimg.cn/large/00831rSTgy1gd9vw42620j31j00u07an.jpg)
+
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gd9wahmqkij31we0u078t.jpg)
 
 
 
 
-
-
-
-
+# 欢迎fork!!!
 
 
 
