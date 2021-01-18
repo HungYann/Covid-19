@@ -1,5 +1,8 @@
 # Interactive map of Covid-19 infected people worldwide
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.com/github/LIU-HONGYANG/Covid-19)
+
+
 Interactive map with search and find functions using the Convid-19 data. Access website: https://hongyang.shinyapps.io/covid-19_maps/
 
 
