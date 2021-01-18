@@ -23,16 +23,22 @@ Download the file and uncompress it, then run the all files in RSTUDIO environme
 
 - Number of infections, rehabilitation and deaths in various countries since the Covid-19 outbreak
 
-![](https://tva1.sinaimg.cn/large/00831rSTgy1gd9vtppdd0j31ko0u01kx.jpg)
+
+<img src="https://tva1.sinaimg.cn/large/00831rSTgy1gd9vtppdd0j31ko0u01kx.jpg"  width="360" height="200"/>
+
 
 
 - The top 10 countries with the highest number of infections
 
-![](https://tva1.sinaimg.cn/large/00831rSTgy1gd9vvg07j4j30iq0v60xi.jpg)
+<img src="https://tva1.sinaimg.cn/large/00831rSTgy1gd9vvg07j4j30iq0v60xi.jpg" width="200" height="360"/>
+
+
 
 - Data sets table
 
-![](https://tva1.sinaimg.cn/large/00831rSTgy1gd9wahmqkij31we0u078t.jpg)
+<img src="https://tva1.sinaimg.cn/large/00831rSTgy1gd9wahmqkij31we0u078t.jpg" width="360" height="130"/>
+
+
 
 
 ### Todos
